@@ -27,7 +27,7 @@ namespace M3_Preprocess_Runner
             M3TargetData = new M3TargetStruct();
             M3TargetData.DSN = "Millennium";
             M3TargetData.Username = "TSR";
-            M3TargetData.Password = "Tricore2#";
+            M3TargetData.Password = "***";
             M3TargetData.Company = "CARD2"; //"IMPA"; //"CHOI"; //"CARD2"; //"XRP"; // "KAFL"; // "CROW"; //XRP has no calendar
 
             InitializeComponent();
